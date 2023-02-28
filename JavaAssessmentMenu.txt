@@ -1,0 +1,10 @@
+
+*************************************** MENU ***********************************************
+1. List All Events
+2. List an individual event
+3. Edit an event
+4. Delete an event
+5. List the attendees attending an event
+6. Add an attendee to the event
+7. Delete an attendee from an event
+Enter your choice
